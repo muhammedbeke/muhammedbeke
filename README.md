@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">👋 Hi,I'm Muhammed</h1>
+<p align="center">
+  Passionate about building modern, scalable and clean web applications.
+</p>
 
-<!--
-**muhammedbeke/muhammedbeke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--- 
 
-Here are some ideas to get you started:
+### 💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🎓 Computer Engineering student at Marmara University  
+- 🌐 Interested in Full-Stack Web Development   
+- 🌱 Improving myself in algorithms, data structures, and modern software development  
+
+---
+
+
+### 🛠️ Technologies & Tools I Use
+
+#### 💻 Programming Languages
+![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) Java
+![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg) C#
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) JavaScript
+
+
+##### ⚙️ Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 🌍 Connect With Me
+
+- 📫 Email: *bekemuhammed02@gmail.com*  
+- 💼 LinkedIn: *www.linkedin.com/in/muhammed-emin-beke-044ab72ab*
+
+---
+
+### 📊 Leetcode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/MuhammedEminBeke?theme=light&animation=true)
+
+---
+
+<p align="center">Always learning and building</p>
+
+
+
+
+
+
+
+
