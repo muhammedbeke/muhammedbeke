@@ -39,7 +39,7 @@
 
 ### 📊 Leetcode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/MuhammedEminBeke?theme=light&animation=true)
+![LeetCode Stats](https://leetcard.jacoblin.cool/MuhammedEminBeke?theme=dark&animation=true)
 
 ---
 
